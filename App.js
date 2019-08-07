@@ -45,7 +45,7 @@
 //   ]);
 // }
 
-// function handleLoadingError(error: Error) {
+// function handleLoadingError(error: Error) { 
 //   // In this case, you might want to report the error to your error reporting
 //   // service, for example Sentry
 //   console.warn(error);
@@ -97,3 +97,8 @@ const MainNavigator = createStackNavigator({
 const App = createAppContainer(MainNavigator);
 
 export default App;
+
+ // https://api.weatherunlocked.com/
+
+
+// 1764b8a82d7c41d1f9a592e6fa2d712b
